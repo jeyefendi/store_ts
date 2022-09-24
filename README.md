@@ -1,7 +1,7 @@
 # Store TS
 ## Pet-project as part of TypeScript basics.
 ><b>React.js <br>TypeScript <br>JSX<br></b>
-## [LIVE DEMO](https://iosnotes.netlify.app/)
+## [LIVE DEMO](https://storets.netlify.app/)
 ![Logo](./COVER.jpg)
 
 # Getting Started with Create React App
