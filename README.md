@@ -1,6 +1,6 @@
 # Store TS
 ## Pet-project as part of TypeScript basics.
-><b>React.js <br>TypeScript <br>JSX<br></b>
+><b>React.js <br>TypeScript <br>Tailwind <br>JSX</b>
 ## [LIVE DEMO](https://storets.netlify.app/)
 ![Logo](./COVER.jpg)
 
